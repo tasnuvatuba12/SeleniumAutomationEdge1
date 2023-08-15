@@ -1,0 +1,20 @@
+
+
+Fund Transfer Open Successfully.
+savings Select Successfully.
+express Select Successfully.
+Enter Transfer Amount Successfully.
+Transfer Button clicked Successfully.
+Amount Verify Success.
+Fund Transfer Open Successfully.
+savings Select Successfully.
+express Select Successfully.
+Enter Transfer Amount Successfully.
+Transfer Button clicked Successfully.
+Amount Verify Success.
+Fund Transfer Open Successfully.
+savings Select Successfully.
+express Select Successfully.
+Enter Transfer Amount Successfully.
+Transfer Button clicked Successfully.
+Amount Verify Success.
